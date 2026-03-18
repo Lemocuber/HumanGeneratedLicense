@@ -1,3 +1,5 @@
+[![Human Generated Badge](https://img.shields.io/badge/license-human_generated-229028?style=for-the-badge)](https://github.com/Lemocuber/HumanGeneratedLicense)
+
 # The Human Generated License
 
 > This software and associated documentation files (the “Software”) is warranted by the author(s) to be created by humans, without content produced or modified by artificial intelligence systems ("Human Generated").  
